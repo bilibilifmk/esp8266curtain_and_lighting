@@ -1,4 +1,4 @@
-# esp8266curtain_and_lighting
+# 视频：https://www.bilibili.com/video/av65222550/
 esp8266 窗帘灯光控制器
 # 带配网 自动计步 可用于各种窗帘的改造智能化 
 ## 按住flash或者拉低D3五秒 松手或断开 进行重置进行配网
