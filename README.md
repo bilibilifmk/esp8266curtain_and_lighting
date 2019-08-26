@@ -1,3 +1,15 @@
+# 遥控器篇
+# 视频：https://www.bilibili.com/video/av65474625/
+![image](https://github.com/bilibilifmk/esp8266curtain_and_lighting/blob/master/IMG_2165.jpg)
+## 原理图
+![image](https://github.com/bilibilifmk/esp8266curtain_and_lighting/blob/master/%E9%81%A5%E6%8E%A7%E5%99%A8%2B%E6%B0%94%E8%B1%A1%E7%AB%99/%E8%BF%9E%E7%BA%BF%E5%9B%BE.png)
+## 材料表 
+8266 x1 
+0.96 oled x1
+微动 x4
+3.7v锂电池 x1
+锂电池充电板 x1
+# 机械电路篇
 # 视频：https://www.bilibili.com/video/av65222550/
 esp8266 窗帘灯光控制器
 # 带配网 自动计步 可用于各种窗帘的改造智能化 
